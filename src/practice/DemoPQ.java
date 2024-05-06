@@ -16,8 +16,22 @@ public class DemoPQ {
 		pq.add(225);
 	//	pq.add(225); //duplicates are allowed
 		pq.add(105);
-		
+	//	pq.add(null);	//null not allowed
+	
 		System.out.println(pq);
+		
+		PriorityQueue pq2=new PriorityQueue();
+		pq2.add("25");
+		pq2.add("12");
+		pq2.add("12");
+		pq2.add("15");
+		pq2.add("50");
+		pq2.add("75");
+		
+		//pq2.add("");	//null not allowed
+		//pq2.add(null);	
+		
+		System.out.println(pq2);
 
 	}
 

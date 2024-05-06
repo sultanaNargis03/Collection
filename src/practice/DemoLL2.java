@@ -17,6 +17,7 @@ public class DemoLL2 {
 		ll.addLast(90);
 		//System.out.println(ll.pollFirst());
 		ll.offerLast(10);
+		ll.add(" ");	//null value allowed
 		System.out.println(ll);
 		System.out.println(ll.size());
 	}

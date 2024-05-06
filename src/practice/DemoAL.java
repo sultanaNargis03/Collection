@@ -10,7 +10,7 @@ public class DemoAL {
 		al.add(5);
 	//	al.add(5);	//duplicates are allowed
 		al.add(0,6);
-		
+		al.add(" ");	//null value allowed
 		System.out.println(al);
 		System.out.println(al.size());
 	}
