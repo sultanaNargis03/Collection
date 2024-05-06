@@ -1,4 +1,7 @@
+import java.util.ArrayList;
 import java.util.LinkedHashSet;
+import java.util.LinkedList;
+import java.util.List;
 
 public class LaunchCollection 
 {
@@ -6,15 +9,16 @@ public class LaunchCollection
 	public static void main(String[] args) 
 	{
 		
-//		List al=new ArrayList();
+
+//		ArrayList al=new ArrayList();
 //		al.add(10);
 //		al.add(null);
 //		System.out.println(al);
 		
-//		List al=new LinkedList();
+//		LinkedList al=new LinkedList();
 //		al.add(10);
 //		al.add(null);
-////		al.add(null);
+//		al.add(null);
 //		System.out.println(al);
 		
 		/*
@@ -34,12 +38,12 @@ public class LaunchCollection
 ////		al.add(null);
 //		System.out.println(al);
 		
-		LinkedHashSet al=new LinkedHashSet();
-		al.add(10);
-		al.add(null);
+//		LinkedHashSet al=new LinkedHashSet();
+//		al.add(10);
+//		al.add(null);
 //		al.add(null);
 		
-		System.out.println(al);
+//		System.out.println(al);
 		
 	}
 

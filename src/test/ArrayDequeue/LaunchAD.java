@@ -13,7 +13,7 @@ public class LaunchAD
 		ad.add(30.5f);
 		ad.add(12);
 //		ad.remove();
-//		ad.remove();
+//		ad.removeLast();
 //		ad.remove();
 		System.out.println(ad);
 		

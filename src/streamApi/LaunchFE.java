@@ -20,9 +20,9 @@ public class LaunchFE {
 		List<Integer> list2 = Arrays.asList(20, 30, 44, 54);
 		// System.out.println(list2);
 
-		/*
-		 * for(Integer o:list2) { System.out.println(o); }
-		 */
+		
+		//  for(Integer o:list2) { System.out.println(o); }
+		 
 		//Consumer<Integer> cons=i->System.out.println(i);
 
 		

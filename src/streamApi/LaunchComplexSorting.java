@@ -59,7 +59,7 @@ public class LaunchComplexSorting
 		
 		System.out.println("Before sort : "+list);
 		//Alpha1 alpha=new Alpha1();
-		//Collections.sort(list);
+//		Collections.sort(list);
 		
 //		Comparator<Employee> sorting= new Comparator<Employee>()
 //		{

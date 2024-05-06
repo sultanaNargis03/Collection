@@ -20,15 +20,6 @@ public class LaunchFFFS {
 //			list.add(44);
 //		}
 		
-//		Iterator itr=list.iterator();
-//		while(itr.hasNext())
-//		{
-//			System.out.println(itr.next());
-//			list.add(44);
-//			
-//			
-//		}
-		
 		CopyOnWriteArrayList list3=new CopyOnWriteArrayList();
 		list3.add(10);
 		list3.add(20);
@@ -41,7 +32,7 @@ public class LaunchFFFS {
 			list3.add(44);
 			System.out.println(itr.next());	
 		}
-		//System.out.println(list3);
+		System.out.println(list3);
 		
 		
 		
