@@ -14,7 +14,7 @@ public class LaunchHashSet {
 		hs.add(40);
 		hs.add(10);
 //		hs.add(10);
-		hs.add("");
+		hs.add("");	
 		System.out.println(hs);
 		
 		
