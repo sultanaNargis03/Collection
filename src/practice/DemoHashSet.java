@@ -13,7 +13,7 @@ public class DemoHashSet {
 		hs.add(101);
 		hs.add(50);
 		hs.add("Java");
-		//hs.add(60); //duplicate not allowed
+		//hs.add(60.8); //duplicate not allowed
 		hs.add("");	//null value allowed
 		hs.add("Hash Set");
 		System.out.println(hs);
