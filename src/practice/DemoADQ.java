@@ -17,7 +17,7 @@ public class DemoADQ {
 		adq.add("me");
 		//adq.add("me");	//duplicates are allowed
 		//System.out.println(adq.pollFirst());
-		adq.add(" ");		//null value allowed
+		adq.add(null);		//null value not allowed
 		adq.offerLast(10);
 		System.out.println(adq);
 		System.out.println(adq.size());
